@@ -1,0 +1,11 @@
+{
+  "name": "pstack",
+  "version": "1.0.3",
+  "main": "posterstack.js",
+  "dependencies": {
+    "apollo-server": "^2.0.0",
+    "commander": "^2.17.1",
+    "graphql": "^0.13.2",
+    "hackablejs": "file:../../akterstack/hackablejs"
+  }
+}
